@@ -4,17 +4,17 @@ layout: home
 hero:
   name: "文档项目"
   text: "前端和后端文档"
-  tagline: "持续学习，持续进步"
+  tagline: "理想主义者"
   image:
     src: /logo.png
     alt: Logo
   actions:
     - theme: brand
       text: 前端
-      link: /markdown-examples
+      link: /src/api-examples
     - theme: alt
       text: 后端
-      link: /api-examples
+      link: /src/markdown-examples
 
 features:
   - title: Feature A
